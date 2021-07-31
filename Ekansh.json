@@ -26,22 +26,22 @@
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/<handle>"
+				"username": "ekansh_202",
+				"url": "https://www.instagram.com/ekansh_202/"
 			}
 		]
 	},
 	"volunteer": [{
 		"organization": "Odyssey",
 		"position": "Member",
-		"startDate": "2020-12-12 // Note Date Format",
+		"startDate": "2020-12-12",
 		"summary": "Literary Society IIIT kota"
 	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor of Technology",
-		"startDate": "2020-12-03 //Date",
+		"startDate": "2020-12-03",
 		"gpa": "9.14",
 		"courses": [
 			"Computer Science & Engineering"
