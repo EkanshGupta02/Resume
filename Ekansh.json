@@ -1,0 +1,58 @@
+{
+	"basics": {
+		"name": "Ekansh Gupta",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/82513511?s=400&u=3f26c4b23af5db60dbcb11c1c61e1a44c8ddd782&v=4",
+		"email": "2020kucp1081@iiitkota.ac.in",
+		"phone": "7017062101",
+		"summary": "I am a Student of IIIT KOTA pursuing my Btech in Computer Science & Engineering.",
+		"location": {
+			"address": " Modipuram",
+			"postalCode": "250110",
+			"city": "Meerut",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "EkanshGupta02",
+				"url": "https://github.com/EkanshGupta02"
+			},
+			{
+				"network": "linkedin",
+				"username": "Ekansh Gupta",
+				"url": "https://www.linkedin.com/in/ekansh-gupta-b42960201/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://instagram.com/<handle>"
+			}
+		]
+	},
+	"volunteer": [{
+		"organization": "Odyssey",
+		"position": "Member",
+		"startDate": "2020-12-12 // Note Date Format",
+		"summary": "Literary Society IIIT kota"
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"startDate": "2020-12-03 //Date",
+		"gpa": "9.14",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Basic",
+		"keywords": ["HTML", "CSS", "C/C++", "Php" , "Python","MySQL"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton","Cricket"]
+	}]
+}
